@@ -1,0 +1,15 @@
+/Users/dineshrijal/Projects/biweekely1/biweekely1/bin/Debug/net7.0/biweekely1
+/Users/dineshrijal/Projects/biweekely1/biweekely1/bin/Debug/net7.0/biweekely1.deps.json
+/Users/dineshrijal/Projects/biweekely1/biweekely1/bin/Debug/net7.0/biweekely1.runtimeconfig.json
+/Users/dineshrijal/Projects/biweekely1/biweekely1/bin/Debug/net7.0/biweekely1.dll
+/Users/dineshrijal/Projects/biweekely1/biweekely1/bin/Debug/net7.0/biweekely1.pdb
+/Users/dineshrijal/Projects/biweekely1/biweekely1/obj/Debug/net7.0/biweekely1.csproj.AssemblyReference.cache
+/Users/dineshrijal/Projects/biweekely1/biweekely1/obj/Debug/net7.0/biweekely1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dineshrijal/Projects/biweekely1/biweekely1/obj/Debug/net7.0/biweekely1.AssemblyInfoInputs.cache
+/Users/dineshrijal/Projects/biweekely1/biweekely1/obj/Debug/net7.0/biweekely1.AssemblyInfo.cs
+/Users/dineshrijal/Projects/biweekely1/biweekely1/obj/Debug/net7.0/biweekely1.csproj.CoreCompileInputs.cache
+/Users/dineshrijal/Projects/biweekely1/biweekely1/obj/Debug/net7.0/biweekely1.dll
+/Users/dineshrijal/Projects/biweekely1/biweekely1/obj/Debug/net7.0/refint/biweekely1.dll
+/Users/dineshrijal/Projects/biweekely1/biweekely1/obj/Debug/net7.0/biweekely1.pdb
+/Users/dineshrijal/Projects/biweekely1/biweekely1/obj/Debug/net7.0/biweekely1.genruntimeconfig.cache
+/Users/dineshrijal/Projects/biweekely1/biweekely1/obj/Debug/net7.0/ref/biweekely1.dll
